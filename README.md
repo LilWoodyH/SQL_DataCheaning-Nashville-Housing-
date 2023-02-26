@@ -1,1 +1,1 @@
-# SQL_DataCheaning-Nashville-Housing-
+The dataset is from Kaggle, and here is the link: https://www.kaggle.com/datasets/yohan313/nashville-housing-data. This project is a practice by following the YouTuber who called 'Alex the analysis', and here is the channel link: "https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3", thank for his sharing.
